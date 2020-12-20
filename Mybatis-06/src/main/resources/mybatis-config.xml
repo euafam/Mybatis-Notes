@@ -6,7 +6,7 @@
 
     <properties resource="db.properties">
         <property name="username" value="root"/>
-        <property name="pwd" value="Lenovo2012"/>
+        <property name="pwd" value="Dell2012"/>
     </properties>
 
 
